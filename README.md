@@ -24,3 +24,8 @@ It replicates the YouTube layout with videos, sidebar, and icons.
 1. Clone the repo:  
 ```bash
 git clone https://github.com/ShreyashS1107/Youtube-clone.git
+2.Open the project:
+
+Navigate to the project folder.
+
+Double-click youtube.html or right-click → Open with → Browser.
